@@ -5,8 +5,7 @@
       "type": "Feature",
       "properties": {
         "location": "2835 E Veterans Memorial Blvd, Killeen, TX 76543",
-        "vtuber": "Tomoe Umari",
-        "url": "https://twitter.com/UmariTomoe/status/1711814911389503643",
+        "vtuber": "<a href='https://twitter.com/UmariTomoe/status/1711814911389503643'>Tomoe Umari</a>",
         "format": "billboard-physical",
         "remarks": "fan-supported",
         "marker-color": "#c74349",
@@ -25,8 +24,7 @@
       "type": "Feature",
       "properties": {
         "location": "3814 Walnut St, Denver, CO 80205",
-        "vtuber": "Nyaru / Nyaruchuu",
-        "url": "https://twitter.com/xeonkitsune/status/1709719096818807266",
+        "vtuber": "<a hrf='https://twitter.com/xeonkitsune/status/1709719096818807266'>Nyaru / Nyaruchuu</a>",
         "format": "billboard-physical",
         "remarks": "fan-supported",
         "marker-color": "#3e69ea",
@@ -45,8 +43,7 @@
       "type": "Feature",
       "properties": {
         "location": "3409 Winfield Dunn Pkwy, Kodak, TN 37764, United States",
-        "vtuber": "Pipkin Pippa",
-        "url": "https://twitter.com/MisterYura/status/1631871296526069760",
+        "vtuber": "<a href='https://twitter.com/MisterYura/status/1631871296526069760'>Pipkin Pippa</a>",
         "format": "billboard-physical",
         "remarks": "fan-supported",
         "marker-color": "#ffade9",
@@ -65,8 +62,7 @@
       "type": "Feature",
       "properties": {
         "location": "1600 10th Avenue South, Great Falls, Montana 59405, United States",
-        "vtuber": "Abi Kadabura",
-        "url": "https://twitter.com/AbiKadabura/status/1701004176136999005",
+        "vtuber": "<a href='https://twitter.com/AbiKadabura/status/1701004176136999005'>Abi Kadabura</a>",
         "format": "billboard-physical",
         "marker-color": "#f773d4",
         "marker-size": "large",
