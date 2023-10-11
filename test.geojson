@@ -1,9 +1,10 @@
 {
     "type": "Feature",
+    "id": 0,
     "properties": {
       "location": "2835 E Veterans Memorial Blvd, Killeen, TX 76543",
-      "vtuber": "Tomoe Umari",
-      "source": "https://twitter.com/UmariTomoe/status/1711814911389503643",
+      "name": "Tomoe Umari",
+      "URL": "https://twitter.com/UmariTomoe/status/1711814911389503643",
       "format": "billboard-physical",
       "remarks": "fan-supported",
       "marker-color": "#c74349",
