@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 0,
       "properties": {
         "location": "2835 E Veterans Memorial Blvd, Killeen, TX 76543",
         "vtuber": "Tomoe Umari",
@@ -24,7 +23,6 @@
     },
     {
       "type": "Feature",
-      "id": 1,
       "properties": {
         "location": "3814 Walnut St, Denver, CO 80205",
         "vtuber": "Nyaru / Nyaruchuu",
@@ -45,7 +43,6 @@
     },
     {
       "type": "Feature",
-      "id": 2,
       "properties": {
         "location": "3409 Winfield Dunn Pkwy, Kodak, TN 37764, United States",
         "vtuber": "Pipkin Pippa",
@@ -82,8 +79,7 @@
           47.49384150513751
         ],
         "type": "Point"
-      },
-      "id": 3
+      }
     }
   ]
 }
