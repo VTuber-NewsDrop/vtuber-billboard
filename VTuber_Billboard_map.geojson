@@ -24,7 +24,7 @@
       "type": "Feature",
       "properties": {
         "location": "3814 Walnut St, Denver, CO 80205",
-        "vtuber": "<a hrf='https://twitter.com/xeonkitsune/status/1709719096818807266'>Nyaru / Nyaruchuu</a>",
+        "vtuber": "<a href='https://twitter.com/xeonkitsune/status/1709719096818807266'>Nyaru / Nyaruchuu</a>",
         "format": "billboard-physical",
         "remarks": "fan-supported",
         "marker-color": "#3e69ea",
