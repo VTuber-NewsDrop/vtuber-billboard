@@ -46,7 +46,7 @@
         "properties": {
           "location": "3409 Winfield Dunn Pkwy, Kodak, TN 37764, United States",
           "vtuber": "Pipkin Pippa",
-          "url": "<a href='https://twitter.com/MisterYura/status/1631871296526069760'>Post on X</a>",
+          "url": "<a href='https://twitter.com/MisterYura/status/1631871296526069760' target='_blank'>Post on X</a>",
           "format": "billboard-physical",
           "remarks": "fan-supported",
           "marker-color": "#ffade9",
