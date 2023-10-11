@@ -6,12 +6,7 @@
       "properties": {
         "location": "2835 E Veterans Memorial Blvd, Killeen, TX 76543",
         "vtuber": "Tomoe Umari",
-        "source": "https://twitter.com/UmariTomoe/status/1711814911389503643",
-        "format": "billboard-physical",
-        "remarks": "fan-supported",
-        "marker-color": "#c74349",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked"
+        "source": "https://twitter.com/UmariTomoe/status/1711814911389503643"
       },
       "geometry": {
         "coordinates": [
@@ -27,12 +22,7 @@
       "properties": {
         "location": "3814 Walnut St, Denver, CO 80205",
         "vtuber": "Nyaru / Nyaruchuu",
-        "source": "https://twitter.com/xeonkitsune/status/1709719096818807266",
-        "format": "billboard-physical",
-        "remarks": "fan-supported",
-        "marker-color": "#3e69ea",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked"
+        "source": "https://twitter.com/xeonkitsune/status/1709719096818807266"
       },
       "geometry": {
         "coordinates": [
@@ -48,12 +38,7 @@
       "properties": {
         "location": "3409 Winfield Dunn Pkwy, Kodak, TN 37764, United States",
         "vtuber": "Pipkin Pippa",
-        "source": "https://twitter.com/MisterYura/status/1631871296526069760",
-        "format": "billboard-physical",
-        "remarks": "fan-supported",
-        "marker-color": "#ffade9",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked"
+        "source": "https://twitter.com/MisterYura/status/1631871296526069760"
       },
       "geometry": {
         "coordinates": [
@@ -69,12 +54,7 @@
       "properties": {
         "location": "1600 10th Avenue South, Great Falls, Montana 59405, United States",
         "vtuber": "Abi Kadabura",
-        "source": "https://twitter.com/AbiKadabura/status/1701004176136999005",
-        "format": "billboard-physical",
-        "marker-color": "#f773d4",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "remarks": "fan-supported"
+        "source": "https://twitter.com/AbiKadabura/status/1701004176136999005"
       },
       "geometry": {
         "coordinates": [
