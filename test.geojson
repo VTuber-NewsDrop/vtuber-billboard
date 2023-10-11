@@ -7,10 +7,7 @@
         "properties": {
           "name": "Tomoe Umari",
           "format": "billboard-physical",
-          "remarks": "fan-supported",
-          "marker-color": "#c74349",
-          "marker-size": "large",
-          "marker-symbol": "circle-stroked"
+          "remarks": "fan-supported"
         },
         "geometry": {
           "type": "Point",
@@ -26,10 +23,7 @@
         "properties": {
           "name": "Nyaruchuu",
           "format": "billboard-physical",
-          "remarks": "fan-supported",
-          "marker-color": "#3e69ea",
-          "marker-size": "large",
-          "marker-symbol": "circle-stroked"
+          "remarks": "fan-supported"
         },
         "geometry": {
           "type": "Point",
@@ -45,10 +39,7 @@
         "properties": {
           "name": "Pipkin Pippa",
           "format": "billboard-physical",
-          "remarks": "fan-supported",
-          "marker-color": "#ffade9",
-          "marker-size": "large",
-          "marker-symbol": "circle-stroked"
+          "remarks": "fan-supported"
         },
         "geometry": {
           "type": "Point",
@@ -63,9 +54,6 @@
         "properties": {
           "name": "Abi Kadabura",
           "format": "billboard-physical",
-          "marker-color": "#f773d4",
-          "marker-size": "large",
-          "marker-symbol": "circle-stroked",
           "remarks": "fan-supported"
         },
         "geometry": {
