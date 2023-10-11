@@ -64,6 +64,20 @@
         "type": "Point"
       },
       "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "TSX Times Square Broadway"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.98483070370767,
+          40.75855594333072
+        ],
+        "type": "Point"
+      },
+      "id": 4
     }
   ]
 }
