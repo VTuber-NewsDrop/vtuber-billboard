@@ -76,6 +76,44 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "67, Namdaemun-ro, Jung-gu, Seoul, South Korea",
+        "vtuber": "<a href='https://twitter.com/nabigators/status/1528756245053640705'>Aoi Nabi</a>",
+        "format": "billboard-digital",
+        "marker-color": "#0000FF",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported"
+      },
+      "geometry": {
+        "coordinates": [
+          126.98162970099764,
+          37.563626805907205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Centre Point Sabah, Lorong Centre Point, 88000 Kota Kinabalu, Sabah, Malaysia",
+        "vtuber": "<a href='https://twitter.com/projekhikayat/status/1712005330937553202'>Projek Hikayat</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "agency-initiated"
+      },
+      "geometry": {
+        "coordinates": [
+          126.98162970099764,
+          37.563626805907205
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
