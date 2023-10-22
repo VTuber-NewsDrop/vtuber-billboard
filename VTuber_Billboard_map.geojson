@@ -114,6 +114,25 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Mall of Asia Complex, Pasay City, Philippines",
+        "vtuber": "<a href='https://twitter.com/Yan_Jiyuu/status/1520710594092888064'>Kaheru</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "talent-initiated"
+      },
+      "geometry": {
+        "coordinates": [
+          120.98430219107564,
+          14.535298431491853
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
