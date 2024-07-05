@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "location": "2835 E Veterans Memorial Blvd, Killeen, TX 76543",
-        "vtuber": "<a href='https://twitter.com/UmariTomoe/status/1711814911389503643'>Tomoe Umari</a>",
+        "vtuber": "<a href='https://twitter.com/UmariTomoe/status/1711814911389503643' target='_blank'>Tomoe Umari</a>",
         "format": "billboard-physical",
         "remarks": "fan-supported",
         "marker-color": "#c74349",
@@ -24,7 +24,7 @@
       "type": "Feature",
       "properties": {
         "location": "3814 Walnut St, Denver, CO 80205",
-        "vtuber": "<a href='https://twitter.com/xeonkitsune/status/1709719096818807266'>Nyaru / Nyaruchuu</a>",
+        "vtuber": "<a href='https://twitter.com/xeonkitsune/status/1709719096818807266' target='_blank'>Nyaru / Nyaruchuu</a>",
         "format": "billboard-physical",
         "remarks": "fan-supported",
         "marker-color": "#3e69ea",
@@ -43,7 +43,7 @@
       "type": "Feature",
       "properties": {
         "location": "3409 Winfield Dunn Pkwy, Kodak, TN 37764, United States",
-        "vtuber": "<a href='https://twitter.com/MisterYura/status/1631871296526069760'>Pipkin Pippa</a>",
+        "vtuber": "<a href='https://twitter.com/MisterYura/status/1631871296526069760' target='_blank'>Pipkin Pippa</a>",
         "format": "billboard-physical",
         "remarks": "fan-supported",
         "marker-color": "#ffade9",
@@ -62,7 +62,7 @@
       "type": "Feature",
       "properties": {
         "location": "1600 10th Avenue South, Great Falls, Montana 59405, United States",
-        "vtuber": "<a href='https://twitter.com/AbiKadabura/status/1701004176136999005'>Abi Kadabura</a>",
+        "vtuber": "<a href='https://twitter.com/AbiKadabura/status/1701004176136999005' target='_blank'>Abi Kadabura</a>",
         "format": "billboard-physical",
         "marker-color": "#f773d4",
         "marker-size": "large",
@@ -81,7 +81,7 @@
       "type": "Feature",
       "properties": {
         "location": "67, Namdaemun-ro, Jung-gu, Seoul, South Korea",
-        "vtuber": "<a href='https://twitter.com/nabigators/status/1528756245053640705'>Aoi Nabi</a>",
+        "vtuber": "<a href='https://twitter.com/nabigators/status/1528756245053640705' target='_blank'>Aoi Nabi</a>",
         "format": "billboard-digital",
         "marker-color": "#0000FF",
         "marker-size": "large",
@@ -100,7 +100,7 @@
       "type": "Feature",
       "properties": {
         "location": "Centre Point Sabah, Lorong Centre Point, 88000 Kota Kinabalu, Sabah, Malaysia",
-        "vtuber": "<a href='https://twitter.com/projekhikayat/status/1712005330937553202'>Projek Hikayat</a>",
+        "vtuber": "<a href='https://twitter.com/projekhikayat/status/1712005330937553202' target='_blank'>Projek Hikayat</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
@@ -119,7 +119,7 @@
       "type": "Feature",
       "properties": {
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://twitter.com/Yan_Jiyuu/status/1520710594092888064'>Kaheru</a>",
+        "vtuber": "<a href='https://twitter.com/Yan_Jiyuu/status/1520710594092888064' target='_blank'>Kaheru</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
@@ -138,7 +138,7 @@
       "type": "Feature",
       "properties": {
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://x.com/HexHaywire/status/1786746645356704245'>Hex Haywire</a>",
+        "vtuber": "<a href='https://x.com/HexHaywire/status/1786746645356704245' target='_blank'>Hex Haywire</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
@@ -157,7 +157,7 @@
       "type": "Feature",
       "properties": {
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://x.com/boysloveandtax/status/1605251060658233344'>Luxiem</a>",
+        "vtuber": "<a href='https://x.com/boysloveandtax/status/1605251060658233344' target='_blank'>Luxiem</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
@@ -176,7 +176,7 @@
       "type": "Feature",
       "properties": {
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://x.com/boysloveandtax/status/1605251060658233344'>Luxiem</a>",
+        "vtuber": "<a href='https://x.com/stealthphass/status/1599407382672867328' target='_blank'>Astel Leda</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
@@ -195,7 +195,7 @@
       "type": "Feature",
       "properties": {
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://x.com/stealthphass/status/1599407382672867328'>Astel Leda</a>",
+        "vtuber": "<a href='https://www.youtube.com/watch?v=ebjj36gQwz0' target='_blank'>Millie Parfait</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
@@ -213,27 +213,8 @@
     {
       "type": "Feature",
       "properties": {
-        "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://www.youtube.com/watch?v=ebjj36gQwz0'>Millie Parfait</a>",
-        "format": "billboard-digital",
-        "marker-color": "#000000",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked",
-        "remarks": "fan-supported"
-      },
-      "geometry": {
-        "coordinates": [
-          120.98430219107564,
-          14.535298431491853
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location": "San Carlos 60 ft E/O Willard N/S F/E",
-        "vtuber": "<a href='https://x.com/Ratsukare/status/1808619983804772578'>Ratsukare</a>",
+        "location": "1489 San Carlos, San Jose, CA 95126",
+        "vtuber": "<a href='https://x.com/Ratsukare/status/1808619983804772578' target='_blank'>Ratsukare</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
