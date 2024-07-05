@@ -133,6 +133,120 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Mall of Asia Complex, Pasay City, Philippines",
+        "vtuber": "<a href='https://x.com/HexHaywire/status/1786746645356704245'>Hex Haywire</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported"
+      },
+      "geometry": {
+        "coordinates": [
+          120.98430219107564,
+          14.535298431491853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Mall of Asia Complex, Pasay City, Philippines",
+        "vtuber": "<a href='https://x.com/boysloveandtax/status/1605251060658233344'>Luxiem</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported"
+      },
+      "geometry": {
+        "coordinates": [
+          120.98430219107564,
+          14.535298431491853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Mall of Asia Complex, Pasay City, Philippines",
+        "vtuber": "<a href='https://x.com/boysloveandtax/status/1605251060658233344'>Luxiem</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported"
+      },
+      "geometry": {
+        "coordinates": [
+          120.98430219107564,
+          14.535298431491853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Mall of Asia Complex, Pasay City, Philippines",
+        "vtuber": "<a href='https://x.com/stealthphass/status/1599407382672867328'>Astel Leda</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported"
+      },
+      "geometry": {
+        "coordinates": [
+          120.98430219107564,
+          14.535298431491853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Mall of Asia Complex, Pasay City, Philippines",
+        "vtuber": "<a href='https://www.youtube.com/watch?v=ebjj36gQwz0'>Millie Parfait</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported"
+      },
+      "geometry": {
+        "coordinates": [
+          120.98430219107564,
+          14.535298431491853
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "San Carlos 60 ft E/O Willard N/S F/E",
+        "vtuber": "<a href='https://x.com/Ratsukare/status/1808619983804772578'>Ratsukare</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported"
+      },
+      "geometry": {
+        "coordinates": [
+          37.323682234820275, 
+          -121.9168272814664
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
