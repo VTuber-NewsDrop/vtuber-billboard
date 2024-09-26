@@ -15,7 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.70853092463142, 31.106403059456525 
+          -97.70853092463142,
+          31.106403059456525
         ]
       }
     },
@@ -33,7 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.97139706155373, 39.7706095494259
+          -104.97139706155373,
+          39.7706095494259
         ]
       }
     },
@@ -51,7 +53,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.60728630223383, 35.97667271335852
+          -83.60728630223383,
+          35.97667271335852
         ]
       }
     },
@@ -68,7 +71,8 @@
       },
       "geometry": {
         "coordinates": [
-          -111.27968590341854, 47.4938583728931
+          -111.27968590341854,
+          47.4938583728931
         ],
         "type": "Point"
       }
@@ -86,7 +90,8 @@
       },
       "geometry": {
         "coordinates": [
-          126.98172939305532, 37.56352398601179
+          126.98172939305532,
+          37.56352398601179
         ],
         "type": "Point"
       }
@@ -97,14 +102,15 @@
         "location": "Centre Point Sabah, Lorong Centre Point, 88000 Kota Kinabalu, Sabah, Malaysia",
         "vtuber": "<a href='https://twitter.com/projekhikayat/status/1712005330937553202' target='_blank'>Projek Hikayat</a>",
         "format": "billboard-digital",
-        "marker-color": "#000000",
+        "marker-color": "#000fff",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
         "remarks": "agency-initiated"
       },
       "geometry": {
         "coordinates": [
-          116.0724350432317, 5.978520673676147
+          101.61755683014783, 
+          3.1500432096127255 
         ],
         "type": "Point"
       }
@@ -122,7 +128,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.98424881560604, 14.535333043337289
+          120.98424881560604,
+          14.535333043337289
         ],
         "type": "Point"
       }
@@ -140,7 +147,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.98434403402413, 14.535300588839384
+          120.98434403402413,
+          14.535300588839384
         ],
         "type": "Point"
       }
@@ -158,7 +166,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.9841864542477, 14.535262941615851
+          120.9841864542477,
+          14.535262941615851
         ],
         "type": "Point"
       }
@@ -176,7 +185,8 @@
       },
       "geometry": {
         "coordinates": [
-          120.98431389265698, 14.535177300032665
+          120.98431389265698,
+          14.535177300032665
         ],
         "type": "Point"
       }
@@ -194,7 +204,8 @@
       },
       "geometry": {
         "coordinates": [
-          14.535244871386372, 120.98421300832183
+          14.535244871386372,
+          120.98421300832183
         ],
         "type": "Point"
       }
@@ -212,7 +223,27 @@
       },
       "geometry": {
         "coordinates": [
-          -121.9168438916331, 37.32363991641796
+          -121.9168438916331,
+          37.32363991641796
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bandar Utama, Damansara, Selangor (opposite 1 Utama), Malaysia",
+        "vtuber": "<a href='https://x.com/makciksimmer/status/1833537066183102747' target='_blank'>Ratsukare</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "agency-initiated"
+      },
+      "geometry": {
+        "coordinates": [
+          3.149948,
+          101.617565
         ],
         "type": "Point"
       }
