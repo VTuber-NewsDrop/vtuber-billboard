@@ -3,250 +3,510 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "location": "2835 E Veterans Memorial Blvd, Killeen, TX 76543",
-        "vtuber": "<a href='https://twitter.com/UmariTomoe/status/1711814911389503643' target='_blank'>Tomoe Umari</a>",
-        "format": "billboard-physical",
-        "remarks": "fan-supported",
-        "marker-color": "#c74349",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.70853092463142,
-          31.106403059456525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location": "3814 Walnut St, Denver, CO 80205",
-        "vtuber": "<a href='https://twitter.com/xeonkitsune/status/1709719096818807266' target='_blank'>Nyaru / Nyaruchuu</a>",
-        "format": "billboard-physical",
-        "remarks": "fan-supported",
-        "marker-color": "#3e69ea",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.97139706155373,
-          39.7706095494259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location": "3409 Winfield Dunn Pkwy, Kodak, TN 37764, United States",
-        "vtuber": "<a href='https://twitter.com/MisterYura/status/1631871296526069760' target='_blank'>Pipkin Pippa</a>",
-        "format": "billboard-physical",
-        "remarks": "fan-supported",
-        "marker-color": "#ffade9",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.60728630223383,
-          35.97667271335852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location": "1600 10th Avenue South, Great Falls, Montana 59405, United States",
-        "vtuber": "<a href='https://twitter.com/AbiKadabura/status/1701004176136999005' target='_blank'>Abi Kadabura</a>",
-        "format": "billboard-physical",
-        "marker-color": "#f773d4",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked",
-        "remarks": "fan-supported"
-      },
       "geometry": {
         "coordinates": [
-          -111.27968590341854,
-          47.4938583728931
+          116.07207223333991,
+          5.977929425238573
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "location": "67, Namdaemun-ro, Jung-gu, Seoul, South Korea",
-        "vtuber": "<a href='https://twitter.com/nabigators/status/1528756245053640705' target='_blank'>Aoi Nabi</a>",
-        "format": "billboard-digital",
-        "marker-color": "#0000FF",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked",
-        "remarks": "fan-supported"
       },
-      "geometry": {
-        "coordinates": [
-          126.98172939305532,
-          37.56352398601179
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
         "location": "Centre Point Sabah, Lorong Centre Point, 88000 Kota Kinabalu, Sabah, Malaysia",
         "vtuber": "<a href='https://twitter.com/projekhikayat/status/1712005330937553202' target='_blank'>Projek Hikayat</a>",
         "format": "billboard-digital",
         "marker-color": "#000fff",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
-        "remarks": "agency-initiated"
+        "remarks": "agency-initiated",
+        "id": "44180d83-3b0a-441f-9272-6d77fc133a02",
+        "name": "Projek Hikayat",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
       },
-      "geometry": {
-        "coordinates": [
-          101.61755683014783, 
-          3.1500432096127255 
-        ],
-        "type": "Point"
-      }
+      "id": "44180d83-3b0a-441f-9272-6d77fc133a02",
+      "bbox": [
+        116.07207223333991,
+        5.977929425238573,
+        116.07207223333991,
+        5.977929425238573
+      ]
     },
     {
       "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -97.70853092463142,
+          31.106403059456525
+        ],
+        "type": "Point"
+      },
       "properties": {
-        "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://twitter.com/Yan_Jiyuu/status/1520710594092888064' target='_blank'>Kaheru</a>",
-        "format": "billboard-digital",
-        "marker-color": "#000000",
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
+        "location": "2835 E Veterans Memorial Blvd, Killeen, TX 76543",
+        "vtuber": "<a href='https://twitter.com/UmariTomoe/status/1711814911389503643' target='_blank'>Tomoe Umari</a>",
+        "format": "billboard-physical",
+        "remarks": "fan-supported",
+        "marker-color": "#c74349",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
-        "remarks": "talent-initiated"
+        "id": "34edc4f8-2eb1-4721-932d-802cf14542dc",
+        "name": "Tomoe Umari",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
       },
+      "id": "34edc4f8-2eb1-4721-932d-802cf14542dc",
+      "bbox": [
+        -97.70853092463142,
+        31.106403059456525,
+        -97.70853092463142,
+        31.106403059456525
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -104.97139706155373,
+          39.7706095494259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
+        "location": "3814 Walnut St, Denver, CO 80205",
+        "vtuber": "<a href='https://twitter.com/xeonkitsune/status/1709719096818807266' target='_blank'>Nyaru / Nyaruchuu</a>",
+        "format": "billboard-physical",
+        "remarks": "fan-supported",
+        "marker-color": "#3e69ea",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "id": "949e211f-d558-49f6-aa20-a587f0f711ea",
+        "name": "Nyaruchuu",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
+      },
+      "id": "949e211f-d558-49f6-aa20-a587f0f711ea",
+      "bbox": [
+        -104.97139706155373,
+        39.7706095494259,
+        -104.97139706155373,
+        39.7706095494259
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -83.60728630223383,
+          35.97667271335852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
+        "location": "3409 Winfield Dunn Pkwy, Kodak, TN 37764, United States",
+        "vtuber": "<a href='https://twitter.com/MisterYura/status/1631871296526069760' target='_blank'>Pipkin Pippa</a>",
+        "format": "billboard-physical",
+        "remarks": "fan-supported",
+        "marker-color": "#ffade9",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "id": "d80ff9bc-6afd-4f54-8968-dbae657e63e4",
+        "name": "Pipkin Pippa",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
+      },
+      "id": "d80ff9bc-6afd-4f54-8968-dbae657e63e4",
+      "bbox": [
+        -83.60728630223383,
+        35.97667271335852,
+        -83.60728630223383,
+        35.97667271335852
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -111.27968590341854,
+          47.4938583728931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
+        "location": "1600 10th Avenue South, Great Falls, Montana 59405, United States",
+        "vtuber": "<a href='https://twitter.com/AbiKadabura/status/1701004176136999005' target='_blank'>Abi Kadabura</a>",
+        "format": "billboard-physical",
+        "marker-color": "#f773d4",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported",
+        "id": "14304bf7-db78-435a-ac2b-af347e7d4364",
+        "name": "Abi Kadabura",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
+      },
+      "id": "14304bf7-db78-435a-ac2b-af347e7d4364",
+      "bbox": [
+        -111.27968590341854,
+        47.4938583728931,
+        -111.27968590341854,
+        47.4938583728931
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          126.98172939305532,
+          37.56352398601179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
+        "location": "67, Namdaemun-ro, Jung-gu, Seoul, South Korea",
+        "vtuber": "<a href='https://twitter.com/nabigators/status/1528756245053640705' target='_blank'>Aoi Nabi</a>",
+        "format": "billboard-digital",
+        "marker-color": "#0000FF",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported",
+        "id": "6b851fc4-651e-4ded-b4c0-1678c9a123ef",
+        "name": "Aoi Nabi",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
+      },
+      "id": "6b851fc4-651e-4ded-b4c0-1678c9a123ef",
+      "bbox": [
+        126.98172939305532,
+        37.56352398601179,
+        126.98172939305532,
+        37.56352398601179
+      ]
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           120.98424881560604,
           14.535333043337289
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://x.com/HexHaywire/status/1786746645356704245' target='_blank'>Hex Haywire</a>",
+        "vtuber": "<a href='https://twitter.com/Yan_Jiyuu/status/1520710594092888064' target='_blank'>Kaheru</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
-        "remarks": "fan-supported"
+        "remarks": "talent-initiated",
+        "id": "c6708c82-4413-4798-94bb-429e8ce43bc0",
+        "name": "Kaheru",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
       },
+      "id": "c6708c82-4413-4798-94bb-429e8ce43bc0",
+      "bbox": [
+        120.98424881560604,
+        14.535333043337289,
+        120.98424881560604,
+        14.535333043337289
+      ]
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           120.98434403402413,
           14.535300588839384
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://x.com/boysloveandtax/status/1605251060658233344' target='_blank'>Luxiem</a>",
+        "vtuber": "<a href='https://x.com/HexHaywire/status/1786746645356704245' target='_blank'>Hex Haywire</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
-        "remarks": "fan-supported"
+        "remarks": "fan-supported",
+        "id": "09ab731c-3c74-407d-96f7-7c74b6786cd6",
+        "name": "Hex Haywire",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
       },
+      "id": "09ab731c-3c74-407d-96f7-7c74b6786cd6",
+      "bbox": [
+        120.98434403402413,
+        14.535300588839384,
+        120.98434403402413,
+        14.535300588839384
+      ]
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           120.9841864542477,
           14.535262941615851
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://x.com/stealthphass/status/1599407382672867328' target='_blank'>Astel Leda</a>",
+        "vtuber": "<a href='https://x.com/boysloveandtax/status/1605251060658233344' target='_blank'>Luxiem</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
-        "remarks": "fan-supported"
+        "remarks": "fan-supported",
+        "id": "9b02fb35-ed5a-4f83-9baf-55f7e66509a2",
+        "name": "Luxiem",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
       },
+      "id": "9b02fb35-ed5a-4f83-9baf-55f7e66509a2",
+      "bbox": [
+        120.9841864542477,
+        14.535262941615851,
+        120.9841864542477,
+        14.535262941615851
+      ]
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           120.98431389265698,
           14.535177300032665
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
         "location": "Mall of Asia Complex, Pasay City, Philippines",
-        "vtuber": "<a href='https://www.youtube.com/watch?v=ebjj36gQwz0' target='_blank'>Millie Parfait</a>",
+        "vtuber": "<a href='https://x.com/stealthphass/status/1599407382672867328' target='_blank'>Astel Leda</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
-        "remarks": "fan-supported"
+        "remarks": "fan-supported",
+        "id": "87cad744-97e5-40da-88dd-5232016ff31f",
+        "name": "Astel Leda",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
       },
-      "geometry": {
-        "coordinates": [
-          14.535244871386372,
-          120.98421300832183
-        ],
-        "type": "Point"
-      }
+      "id": "87cad744-97e5-40da-88dd-5232016ff31f",
+      "bbox": [
+        120.98431389265698,
+        14.535177300032665,
+        120.98431389265698,
+        14.535177300032665
+      ]
     },
     {
       "type": "Feature",
-      "properties": {
-        "location": "1489 San Carlos, San Jose, CA 95126",
-        "vtuber": "<a href='https://x.com/Ratsukare/status/1808619983804772578' target='_blank'>Ratsukare</a>",
-        "format": "billboard-digital",
-        "marker-color": "#000000",
-        "marker-size": "large",
-        "marker-symbol": "circle-stroked",
-        "remarks": "fan-supported"
-      },
       "geometry": {
         "coordinates": [
           -121.9168438916331,
           37.32363991641796
         ],
         "type": "Point"
-      }
+      },
+      "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
+        "location": "1489 San Carlos, San Jose, CA 95126",
+        "vtuber": "<a href='https://x.com/Ratsukare/status/1808619983804772578' target='_blank'>Ratsukare</a>",
+        "format": "billboard-digital",
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "circle-stroked",
+        "remarks": "fan-supported",
+        "id": "bb099d26-c0fb-4c61-a257-1c6887dc22de",
+        "name": "Ratsukare",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
+      },
+      "id": "bb099d26-c0fb-4c61-a257-1c6887dc22de",
+      "bbox": [
+        -121.9168438916331,
+        37.32363991641796,
+        -121.9168438916331,
+        37.32363991641796
+      ]
     },
     {
       "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.61767063917229,
+          3.150083881715155
+        ],
+        "type": "Point"
+      },
       "properties": {
-        "location": "Bandar Utama, Damansara, Selangor (opposite 1 Utama), Malaysia",
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 2,
+        "hideFill": false,
+        "hideLine": false,
+        "location": "LDP - Bandar Utama, Damansara, Selangor, Malaysia",
         "vtuber": "<a href='https://x.com/makciksimmer/status/1833537066183102747' target='_blank'>Malaysia Digital Content Festival</a>",
         "format": "billboard-digital",
         "marker-color": "#000000",
         "marker-size": "large",
         "marker-symbol": "circle-stroked",
-        "remarks": "agency-initiated"
+        "remarks": "fan-supported",
+        "id": "047ddeed-cb78-48bf-8924-eeebe4d5fcf8",
+        "name": "MYVT",
+        "isHidden": false,
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
       },
+      "id": "047ddeed-cb78-48bf-8924-eeebe4d5fcf8",
+      "bbox": [
+        101.61767063917229,
+        3.150083881715155,
+        101.61767063917229,
+        3.150083881715155
+      ]
+    },
+    {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          3.149948,
-          101.617565
-        ],
-        "type": "Point"
-      }
+          120.98399146432952,
+          14.535553757456626
+        ]
+      },
+      "properties": {
+        "lineWidth": 10,
+        "widthScale": "mtrs",
+        "radiusScale": "mtrs",
+        "pointRadius": 30,
+        "hideFill": false,
+        "hideLine": false,
+        "name": "Millie Parfait",
+        "id": "77210052-1348-4cb7-b6ad-5deceb77f555",
+        "isHidden": false,
+        "vtuber": "<a href='https://www.youtube.com/watch?v=ebjj36gQwz0' target='_blank'>Millie Parfait</a>",
+        "remarks": "fan-supported",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "large",
+        "marker-color": "#000000",
+        "format": "billboard-digital",
+        "location": "Mall of Asia Complex, Pasay City, Philippines",
+        "fill": "#4b7fd1",
+        "fill-opacity": 1,
+        "stroke": "#ffffff",
+        "stroke-opacity": 1
+      },
+      "id": "77210052-1348-4cb7-b6ad-5deceb77f555",
+      "bbox": [
+        120.98399146432952,
+        14.535553757456626,
+        120.98399146432952,
+        14.535553757456626
+      ]
     }
   ]
 }
